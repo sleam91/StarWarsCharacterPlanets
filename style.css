@@ -63,7 +63,7 @@ header :first-child{
     padding-left: 5rem;
     font-weight: 800;
 
-
+    max-width: 170px;
     position: absolute;
     top: 0;
     bottom: 0;
@@ -86,7 +86,7 @@ header :first-child{
 }
 
 .planet:hover{
-    text-decoration: underline;
+
     color: blue;
 }
 
